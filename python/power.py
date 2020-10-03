@@ -1,4 +1,4 @@
 x = eval(input('Add x: '))
 y = eval(input('Add y: '))
 
-print('Multiplication is: ' + str(x*y))
+print('Sum is: ' + str(x+y))
